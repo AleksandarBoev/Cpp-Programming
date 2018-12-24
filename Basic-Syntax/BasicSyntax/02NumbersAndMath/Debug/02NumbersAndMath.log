@@ -1,4 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (02DataTypes.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  02OperationsAndRounding.cpp
-c:\aleksandaruser\programming\practise\basic-cpp-programming\basic-syntax\basicsyntax\02numbersandmath\02operationsandrounding.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
-  02NumbersAndMath.vcxproj -> C:\AleksandarUser\Programming\Practise\Basic-Cpp-Programming\Basic-Syntax\BasicSyntax\Debug\02OperationsAndRounding.exe
