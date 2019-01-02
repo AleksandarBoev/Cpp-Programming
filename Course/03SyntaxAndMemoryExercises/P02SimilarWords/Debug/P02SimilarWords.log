@@ -1,0 +1,4 @@
+﻿  P02SimilarWords.cpp
+c:\aleksandaruser\programming\githubrepositories\cpp-programming\course\03syntaxandmemoryexercises\p02similarwords\p02similarwords.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\aleksandaruser\programming\githubrepositories\cpp-programming\course\03syntaxandmemoryexercises\p02similarwords\p02similarwords.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  P02SimilarWords.vcxproj -> C:\AleksandarUser\Programming\GitHubRepositories\Cpp-Programming\Course\03SyntaxAndMemoryExercises\Debug\P02SimilarWords.exe
