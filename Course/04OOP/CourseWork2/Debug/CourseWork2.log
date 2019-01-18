@@ -1,0 +1,15 @@
+﻿  CourseWork2.cpp
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: __thiscall MyArrayList<int>::MyArrayList<int>(int)" (??0?$MyArrayList@H@@QAE@H@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: __thiscall MyArrayList<int>::~MyArrayList<int>(void)" (??1?$MyArrayList@H@@QAE@XZ) referenced in function "void __cdecl testIfEqual<int>(class MyArrayList<int>,class MyArrayList<int>)" (??$testIfEqual@H@@YAXV?$MyArrayList@H@@0@Z)
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: __thiscall MyArrayList<int>::MyArrayList<int>(class MyArrayList<int> const &)" (??0?$MyArrayList@H@@QAE@ABV0@@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: class MyArrayList<int> & __thiscall MyArrayList<int>::operator=(class MyArrayList<int> const &)" (??4?$MyArrayList@H@@QAEAAV0@ABV0@@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: bool __thiscall MyArrayList<int>::operator==(class MyArrayList<int> const &)const " (??8?$MyArrayList@H@@QBE_NABV0@@Z) referenced in function "void __cdecl testIfEqual<int>(class MyArrayList<int>,class MyArrayList<int>)" (??$testIfEqual@H@@YAXV?$MyArrayList@H@@0@Z)
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: class MyArrayList<int> __thiscall MyArrayList<int>::operator+(class MyArrayList<int> const &)const " (??H?$MyArrayList@H@@QBE?AV0@ABV0@@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: int __thiscall MyArrayList<int>::operator[](int)const " (??A?$MyArrayList@H@@QBEHH@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: int __thiscall MyArrayList<int>::getSize(void)const " (?getSize@?$MyArrayList@H@@QBEHXZ) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyArrayList<int>::addElement(int)" (?addElement@?$MyArrayList@H@@QAEXH@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyArrayList<int>::addElement(int,int)" (?addElement@?$MyArrayList@H@@QAEXHH@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyArrayList<int>::setElement(int,int)" (?setElement@?$MyArrayList@H@@QAEXHH@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyArrayList<int>::removeElement(int)" (?removeElement@?$MyArrayList@H@@QAEXH@Z) referenced in function _main
+CourseWork2.obj : error LNK2019: unresolved external symbol "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall MyArrayList<int>::toString(void)const " (?toString@?$MyArrayList@H@@QBE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function _main
+C:\AleksandarUser\Programming\GitHubRepositories\Cpp-Programming\Course\04OOP\Debug\CourseWork2.exe : fatal error LNK1120: 13 unresolved externals

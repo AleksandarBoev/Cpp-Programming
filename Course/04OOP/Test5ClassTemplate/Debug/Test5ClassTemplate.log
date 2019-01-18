@@ -1,2 +1,16 @@
 ﻿  Test5ClassTemplate.cpp
+c:\aleksandaruser\programming\githubrepositories\cpp-programming\course\04oop\test5classtemplate\test5classtemplate.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  c:\aleksandaruser\programming\githubrepositories\cpp-programming\course\04oop\test5classtemplate\test5classtemplate.cpp(106): note: while compiling class template member function 'MyArrayList<int> MyArrayList<int>::operator +(std::vector<T,std::allocator<_Ty>>) const'
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  c:\aleksandaruser\programming\githubrepositories\cpp-programming\course\04oop\test5classtemplate\test5classtemplate.cpp(287): note: see reference to function template instantiation 'MyArrayList<int> MyArrayList<int>::operator +(std::vector<T,std::allocator<_Ty>>) const' being compiled
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  c:\aleksandaruser\programming\githubrepositories\cpp-programming\course\04oop\test5classtemplate\test5classtemplate.cpp(225): note: see reference to class template instantiation 'MyArrayList<int>' being compiled
   Test5ClassTemplate.vcxproj -> C:\AleksandarUser\Programming\GitHubRepositories\Cpp-Programming\Course\04OOP\Debug\Test5ClassTemplate.exe
