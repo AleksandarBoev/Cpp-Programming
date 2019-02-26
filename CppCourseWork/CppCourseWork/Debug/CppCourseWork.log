@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  CppCourseWork.cpp
+c:\aleksandaruser\programming\githubrepositories\cpp-programming\cppcoursework\cppcoursework\cppcoursework.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  c:\aleksandaruser\programming\githubrepositories\cpp-programming\cppcoursework\cppcoursework\cppcoursework.cpp(106): note: while compiling class template member function 'MyArrayList<int> MyArrayList<int>::operator +(std::vector<T,std::allocator<_Ty>>) const'
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  c:\aleksandaruser\programming\githubrepositories\cpp-programming\cppcoursework\cppcoursework\cppcoursework.cpp(287): note: see reference to function template instantiation 'MyArrayList<int> MyArrayList<int>::operator +(std::vector<T,std::allocator<_Ty>>) const' being compiled
+          with
+          [
+              T=int,
+              _Ty=int
+          ]
+  c:\aleksandaruser\programming\githubrepositories\cpp-programming\cppcoursework\cppcoursework\cppcoursework.cpp(225): note: see reference to class template instantiation 'MyArrayList<int>' being compiled
+  CppCourseWork.vcxproj -> C:\AleksandarUser\Programming\GitHubRepositories\Cpp-Programming\CppCourseWork\Debug\CppCourseWork.exe

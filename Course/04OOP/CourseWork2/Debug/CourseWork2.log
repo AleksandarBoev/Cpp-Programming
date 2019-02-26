@@ -1,5 +1,4 @@
-﻿  CourseWork2.cpp
-CourseWork2.obj : error LNK2019: unresolved external symbol "public: __thiscall MyArrayList<int>::MyArrayList<int>(int)" (??0?$MyArrayList@H@@QAE@H@Z) referenced in function _main
+﻿CourseWork2.obj : error LNK2019: unresolved external symbol "public: __thiscall MyArrayList<int>::MyArrayList<int>(int)" (??0?$MyArrayList@H@@QAE@H@Z) referenced in function _main
 CourseWork2.obj : error LNK2019: unresolved external symbol "public: __thiscall MyArrayList<int>::~MyArrayList<int>(void)" (??1?$MyArrayList@H@@QAE@XZ) referenced in function "void __cdecl testIfEqual<int>(class MyArrayList<int>,class MyArrayList<int>)" (??$testIfEqual@H@@YAXV?$MyArrayList@H@@0@Z)
 CourseWork2.obj : error LNK2019: unresolved external symbol "public: __thiscall MyArrayList<int>::MyArrayList<int>(class MyArrayList<int> const &)" (??0?$MyArrayList@H@@QAE@ABV0@@Z) referenced in function _main
 CourseWork2.obj : error LNK2019: unresolved external symbol "public: class MyArrayList<int> & __thiscall MyArrayList<int>::operator=(class MyArrayList<int> const &)" (??4?$MyArrayList@H@@QAEAAV0@ABV0@@Z) referenced in function _main
